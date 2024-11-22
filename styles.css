@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Minecraft';
+    src: url('fonts/Minecraft.ttf') 
+         format('truetype');
+}
+
+h1 {
+text-align: center;
+font-family: 'Minecraft', sans-serif;
+
+}
+
+#introduction {
+text-align: center;
+
+}

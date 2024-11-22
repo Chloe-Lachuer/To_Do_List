@@ -1,0 +1,33 @@
+# Ignorer les fichiers de cache d'éditeur
+.vscode/
+.idea/
+
+# Ignorer les fichiers systèmes (Windows, macOS)
+.DS_Store         # macOS
+Thumbs.db         # Windows
+
+# Ignorer les fichiers de log
+*.log
+
+# Ignorer les fichiers de sauvegarde ou temporaires
+*~
+*.bak
+
+# Ignorer les dépendances
+node_modules/
+
+# Ignorer les fichiers environnementaux sensibles
+.env
+
+# Ignorer les fichiers de log
+*.log
+
+# Ignorer le dossier de build / production
+build/
+
+# Ignorer le dossier de configuration
+dist/
+
+# Ignorer les fichiers de cache
+.cache/
+
